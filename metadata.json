@@ -1,0 +1,6 @@
+{
+  "name": "ViskoLab — Mô Phỏng Chất Nhầy Thực Tế & ASMR",
+  "description": "Phòng thí nghiệm tương tác chất nhầy (slime) vật lý mềm thời gian thực: nhào nặn, ném vào góc phòng, dùng dao cắt đôi, bật lửa đốt cháy, làm đóng băng và âm thanh ASMR sống động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
